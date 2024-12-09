@@ -61,6 +61,7 @@ CCTV17
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd$!线路1
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd$!线路1
 江津综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd$!线路1
+江津旅游,http://222.179.155.21:1935/ch2.m3u8$!线路1
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8$!线路1
 武隆综合
 万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd$!线路1
@@ -90,12 +91,14 @@ TVBS新聞台
 中视,rtmp://f13h.mine.nu/sat/tv091$!线路1
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn$!线路1
 明珠台
+星空卫视
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$!线路1
 TVBS亚洲
 金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8$!线路1
 半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8$!线路1
-半岛电视台,https://epg.pw/stream/0b732899375b36eab58d7a77b4943066b480d947237f75d07721b3a87fbd4065.m3u8$!线路1
+半岛电视台,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8$!线路1
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8$!线路1
-
+Love Nature,https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8$!线路1
 
 💰数字频道,#genre#
 风云音乐
@@ -120,7 +123,7 @@ iHOT爱旅行
 哒啵赛事
 哒啵电竞
 爱体育
-红牛运动
+红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!线路1
 体育赛事
 劲爆体育
 超级体育
