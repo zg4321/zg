@@ -12,7 +12,7 @@ on:
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
-    timeout-minutes: 60
+    timeout-minutes: 45
     strategy:
       matrix:
         operating-system: ['ubuntu-20.04']
