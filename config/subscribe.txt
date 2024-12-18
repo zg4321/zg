@@ -6,7 +6,6 @@ https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv4.txt
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
 https://cdn.jsdelivr.net/gh/joevess/IPTV@main/home.m3u8
-https://aktv.top/live.txt
 http://175.178.251.183:6689/live.txt
 https://cdn.jsdelivr.net/gh/kimwang1978/collect-tv-txt@main/merged_output.txt
 https://m3u.ibert.me/txt/fmml_dv6.txt
@@ -16,3 +15,6 @@ https://cdn.jsdelivr.net/gh/xzw832/cmys@main/S_CCTV.txt
 https://cdn.jsdelivr.net/gh/xzw832/cmys@main/S_weishi.txt
 https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://live.iptv365.org/live.txt
+https://live.zhoujie218.top/tv/iptv4.m3u
+https://ghproxy.net/https:/raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
