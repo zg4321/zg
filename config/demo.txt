@@ -89,6 +89,7 @@ CCTV兵器科技
 民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001$!线路1
 民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003$!线路1
 民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002$!线路1
+民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07$!线路1
 民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004$!线路1
 华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052$!线路1
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010$!线路1
@@ -100,16 +101,18 @@ TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072$!线路1
 TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068$!线路1
 三立新闻
 寰宇新闻
+寰宇新聞台灣台
 TVB无线新闻
 TVB明珠台
 翡翠台
 八大精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv034$!线路1
 八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039$!线路1
+韩国KBS
+Fox新闻
 半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8$!线路1
 半岛电视台,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8$!线路1
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8$!线路1
 金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8$!线路1
-
 
 🏀体育频道,#genre#
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!线路1
@@ -220,6 +223,7 @@ iHOT爱动漫
 电竞天堂
 
 👀求索频道,#genre#
+乐游
 求索科学
 求索纪录
 求索动物
