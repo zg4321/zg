@@ -85,26 +85,26 @@ CCTV女性时尚
 中天新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv009$!线路1
 民视新闻台,http://litv.zapi.us.kg/?id=litv-ftv13$!线路1
 民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001$!线路1
-民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002$!线路1
-民视第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003$!线路1
-民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07$!线路1
-民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004$!线路1
-中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074$!线路1
-华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052$!线路1
-台视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv051$!线路1
-非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010$!线路1
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152$!线路1
-镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075$!线路1
-TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072$!线路1
-TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068$!线路1
+民视
+民视第一台
+民视旅游
+民视综艺
+中视新闻
+华视新闻
+台视新闻
+非凡新闻
+东森新闻
+镜新闻
+TVBS新闻
+TVBS欢乐
 三立新闻
 寰宇新闻
 寰宇新聞台灣台
 TVB无线新闻
 TVB明珠台
 翡翠台
-八大精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv034$!线路1
-八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039$!线路1
+八大精彩
+八大综艺
 金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8$!线路1
 半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8$!线路1
 半岛电视台,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8$!线路1
@@ -114,7 +114,7 @@ Fox新闻
 
 ⚽体育频道,#genre#
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!线路1
-TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077$!线路1
+TRA体育
 广东体育
 纬来体育
 五星体育
@@ -143,9 +143,9 @@ TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077$!线路1
 JJ斗地主
 
 🎬电影频道,#genre#
-AMC电影,http://litv.zapi.us.kg/?id=4gtv-4gtv017$!线路1
-龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03$!线路1
-靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061$!线路1
+AMC电影
+龙华电影
+靖天电影
 星空卫视
 CHC家庭影院
 CHC动作电影
@@ -227,7 +227,7 @@ iHOT爱动漫
 求索生活
 
 ❄动画频道,#genre#
-龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01$!线路1
+龙华卡通
 少儿动画
 卡酷动画
 动漫秀场
