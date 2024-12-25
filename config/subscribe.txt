@@ -1,6 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+
+https://live.iptv365.org/live.txt
+https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 https://iptv.b2og.com/txt/fmml_ipv6.txt
+https://ghproxy.net/https:/raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv4.txt
@@ -16,4 +20,3 @@ https://ghgo.xyz/raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
 https://ghgo.xyz/raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
 https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://ghgo.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
