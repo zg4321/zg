@@ -1,5 +1,12 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
-# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+# This is the interface blacklist list, the interface matching the keyword will be blocked, one 
+udp
+rtp
+rtsp
+litv.zapi.us.kg
+xyz:80/live/live2.1
+antv
+keyword line
 epg.pw
 skype.serv00.net
 iptv.yjxfz.com
@@ -9,3 +16,4 @@ hc73k3dhwo5gfkt.wcetv.com
 stream1.freetv.fun
 zw9999.cnstream.top
 zsntlqj.xicp.net
+公众号
