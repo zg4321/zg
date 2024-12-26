@@ -226,7 +226,6 @@ CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 天津卫视,http://36.35.111.195:9901/tsfile/live/1030_1.m3u8
 天津卫视,http://221.199.193.157:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://124.231.214.186:9999/tsfile/live/0135_1.m3u8
-湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 湖南卫视,http://115.48.62.172:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://1.30.24.181:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://125.43.241.34:9901/tsfile/live/0128_1.m3u8
