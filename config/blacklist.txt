@@ -5,7 +5,7 @@ rtp
 rtsp
 litv.zapi.us.kg
 xyz:80/live/live2.1
-antv
+antvlive.ab5c6921.cdnviet.com
 keyword line
 epg.pw
 skype.serv00.net
