@@ -113,10 +113,12 @@ TVB明珠台
 韩国KBS
 Fox新闻
 BBCNews
+RT News
 
 ⚽体育频道,#genre#
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!线路1
 TRA体育
+Trace Sports
 广东体育
 纬来体育
 五星体育
