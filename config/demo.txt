@@ -111,8 +111,8 @@ TVB明珠台
 半岛电视台,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8$!线路1
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8$!线路1
 韩国KBS
-Fox新闻
-BBCNews
+Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8$!线路1
+BBCNews,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8$!线路1
 RT News
 
 ⚽体育频道,#genre#
