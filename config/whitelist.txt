@@ -9,6 +9,13 @@
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd
 万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
+金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视台,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+BBCNews,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 经典音乐,https://ngcdn004.cnr.cn/live/dszs/index.m3u8
