@@ -23,12 +23,12 @@ CCTV兵器科技
 
 🏠重庆频道,#genre#
 重庆卫视
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd$!线路1
-璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd$!线路1
-江津综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd$!线路1
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8$!线路1
-垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd$!线路1
-万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd$!线路1
+铜梁综合
+璧山综合
+江津综合
+荣昌综合
+垫江综合
+万州综合
 万州三峡移民
 重庆汽摩
 重庆新闻
@@ -74,7 +74,7 @@ CCTV兵器科技
 凤凰中文
 凤凰资讯
 凤凰香港
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$!线路1
+香港卫视
 民视
 民视新闻台
 民视台湾台
@@ -99,17 +99,17 @@ TVB明珠台
 翡翠台
 八大精彩
 八大综艺
-金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8$!线路1
-半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8$!线路1
-半岛电视台,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8$!线路1
-Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8$!线路1
-BBCNews,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8$!线路1
+金砖国家电视台
+半岛新闻台
+半岛电视台
+Fox新闻
+BBCNews
 RT News
-日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8$!线路1
+日本全天新闻
 韩国KBS
 
 ⚽体育频道,#genre#
-红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$!线路1
+红牛运动
 TRA体育
 Trace Sports
 广东体育
@@ -200,16 +200,16 @@ CN卡通
 漫画解说
 
 🎵广播,#genre#
-音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$!线路1
-经典音乐,https://ngcdn004.cnr.cn/live/dszs/index.m3u8$!线路1
-亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8$!线路1
-HITFM国际流行音乐,https://sk.cri.cn/887.m3u8$!线路1
-怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8$!线路1
-清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8$!线路1
-北京交通广播,http://live.xmcdn.com/live/93/64.m3u8$!线路1
-北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8$!线路1
-重庆音乐广播,https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8$!线路1
-重庆都市广播,https://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8$!线路1
-重庆交通广播,http://live.xmcdn.com/live/130/64.m3u8$!线路1
-重庆新闻广播,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$!线路1
-中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8$!线路1
+音乐之声
+经典音乐
+亚洲经典音乐台
+HITFM国际流行音乐
+怀集音乐台
+清晨音乐台
+北京交通广播
+北京音乐广播
+重庆音乐广播
+重庆都市广播
+重庆交通广播
+重庆新闻广播
+中国之声
