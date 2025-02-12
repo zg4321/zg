@@ -2,3 +2,24 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
+江津综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
+垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd
+万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
+红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐,https://ngcdn004.cnr.cn/live/dszs/index.m3u8
+亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
+HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
+怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
+清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+北京交通广播,http://live.xmcdn.com/live/93/64.m3u8
+北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
+重庆音乐广播,https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+重庆都市广播,https://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
+重庆交通广播,http://live.xmcdn.com/live/130/64.m3u8
+重庆新闻广播,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
