@@ -19,10 +19,16 @@ RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 经典音乐,https://ngcdn004.cnr.cn/live/dszs/index.m3u8
+HD音乐,http://asiafm.hk:8000/asiahd
+亚洲音乐台,http://asiafm.hk:8000/asiafm
 亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
-HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
+亚洲流行,http://apop.bigbradio.net/s
+中文流行,http://cpop.bigbradio.net/s
+HITFM,https://sk.cri.cn/887.m3u8
+格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 北京交通广播,http://live.xmcdn.com/live/93/64.m3u8
 北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
 重庆音乐广播,https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
