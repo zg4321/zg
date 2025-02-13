@@ -29,4 +29,6 @@ HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
 重庆都市广播,https://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
 重庆交通广播,http://live.xmcdn.com/live/130/64.m3u8
 重庆新闻广播,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+阅读之声,https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+环球资讯,https://sk.cri.cn/905.m3u8
