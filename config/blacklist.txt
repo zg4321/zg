@@ -45,3 +45,4 @@ goo.bkpcp.top/mg
 event.pull.hebtv.com
 zb.xmzb.xyz/123.php
 playtv-live.ifeng.com
+218.202.220.2
