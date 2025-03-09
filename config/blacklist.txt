@@ -43,3 +43,4 @@ http://120.55.49.231:3095/rtp
 z.b.bkpcp.top/m.php
 goo.bkpcp.top/mg
 event.pull.hebtv.com
+zb.xmzb.xyz/123.php
