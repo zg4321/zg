@@ -9,6 +9,9 @@
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd
 万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
+凤凰资讯,https://live.iill.top/youtube/@phoenixtvhk
+中天新闻台,https://live.iill.top/youtube/vr3XyVCR4T0
+民视,https://live.iill.top/youtube/@FTV_News
 金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视台,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
