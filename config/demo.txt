@@ -67,6 +67,7 @@ TVB明珠台
 Fox新闻
 BBCNews
 RT News
+NHK World
 日本全天新闻
 韩国KBS
 TRA体育
