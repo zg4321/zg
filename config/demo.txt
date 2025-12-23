@@ -104,8 +104,6 @@ BBCNews
 RT News
 NHK World
 日本全天新闻
-韩国KBS
-TRA体育
 Trace Sports
 红牛运动
 
@@ -113,11 +111,11 @@ Trace Sports
 格莱美音乐台
 音乐之声
 HD音乐
-亚洲音乐台
 亚洲经典音乐台
 亚洲流行
 80后音悦台
 怀集音乐台
+亚洲音乐台
 清晨音乐台
 北京交通广播
 北京音乐广播
