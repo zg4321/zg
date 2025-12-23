@@ -23,7 +23,6 @@ HD音乐,http://asiafm.hk:8000/asiahd
 亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
 亚洲流行,http://apop.bigbradio.net/s
 中文流行,http://cpop.bigbradio.net/s
-HITFM,https://sk.cri.cn/887.m3u8
 格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
