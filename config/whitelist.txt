@@ -18,9 +18,9 @@ RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 日本全天新闻,
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-AsiaFMHD音乐,http://asiafm.hk:8000/asiahd
+AsiaFM HD音乐,http://asiafm.hk:8000/asiahd
 AsiaFM亚洲音乐台,http://asiafm.hk:8000/asiafm
-AsiaFM亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
+AsiaFM亚洲经典台,http://live.xmcdn.com:80/live/1005/64.m3u8
 AsiaFM亚洲天空台,http://funradio.cn:8000/funradio
 AsiaFM亚洲热歌台,https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
 AsiaFM亚洲粤语台,https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
