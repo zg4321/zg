@@ -56,6 +56,7 @@ CCTV12
 
 
 ⛳港·澳·台,#genre#
+红牛运动
 凤凰中文
 凤凰资讯
 凤凰香港
@@ -77,15 +78,16 @@ RT News
 NHK World
 日本全天新闻
 Trace Sports
-红牛运动
+
 
 🎵广播电台,#genre#
+AsiaFMHD音乐
+AsiaFM亚洲音乐台
+AsiaFM亚洲经典音乐台
+AsiaFM亚洲天空台
+AsiaFM亚洲热歌台
+AsiaFM亚洲粤语台
 格莱美音乐台
-
-HD音乐
-亚洲音乐台
-亚洲经典音乐台
-亚洲流行
 80后音悦台
 怀集音乐台
 清晨音乐台
