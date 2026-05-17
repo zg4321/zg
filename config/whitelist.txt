@@ -9,7 +9,7 @@
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd
 
-金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+金砖国家电视台,
 半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视台,https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -20,7 +20,7 @@ RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 
 AsiaFMHD音乐台,http://asiafm.hk:8000/asiahd
 AsiaFM亚洲音乐台,http://asiafm.hk:8000/asiafm
-AsiaFM亚洲经典台,http://live.xmcdn.com:80/live/1005/64.m3u8
+AsiaFM亚洲经典台,http://goldfm.cn:8000/goldfm
 AsiaFM亚洲天空台,http://funradio.cn:8000/funradio
 AsiaFM亚洲热歌台,https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
 AsiaFM亚洲粤语台,https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
@@ -37,5 +37,6 @@ AsiaFM亚洲粤语台,https://live.ximalaya.com/radio-first-page-app/live/999/64
 阅读之声,https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 环球资讯,https://sk.cri.cn/905.m3u8
+
 
 
